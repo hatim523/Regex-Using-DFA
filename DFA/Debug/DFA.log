@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\hatim\source\repos\dfa\dfa\source.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\hatim\source\repos\dfa\dfa\source.cpp(358): warning C4018: '<': signed/unsigned mismatch
+c:\users\hatim\source\repos\dfa\dfa\source.cpp(122): warning C4715: 'DFA::getCharacterInt': not all control paths return a value
+  DFA.vcxproj -> C:\Users\Hatim\source\repos\DFA\Debug\DFA.exe
